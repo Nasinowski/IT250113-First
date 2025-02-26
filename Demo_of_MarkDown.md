@@ -26,3 +26,6 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 [ how to find clients](https://crocspace.substack.com/p/freelancing-how-i-got-clients-part)
 this is the full url to the page
 https://crocspace.substack.com/p/freelancing-how-i-got-clients-part
+
+Some paragraph with text.
+> blockquote text below the paragraph

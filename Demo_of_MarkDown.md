@@ -19,3 +19,8 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 1. third time
    1. indented
      1. inner number   
+
+
+[this is the description](http://www.github.com)
+
+[ how to find clients](https://crocspace.substack.com/p/freelancing-how-i-got-clients-part)

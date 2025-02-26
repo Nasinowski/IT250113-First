@@ -32,3 +32,7 @@ Some paragraph with text.
 > I’ve tried a few resume variations. More project information, standard Europass format, less project information, standard  > /> LinkedIn export, meh, meh, meh. Then I looked into how others were doing and also tried some tools which turned a LinkedIn
 >
 > > > export into a colourful resume. The moment it clicked that I was on to something was when recruiters started complimenting it in calls.
+
+This is being * created * on a ** Friday ** ~~Saturday~~.
+
+

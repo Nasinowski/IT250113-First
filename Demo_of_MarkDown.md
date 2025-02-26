@@ -13,3 +13,9 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 - third time
   - indented
     1. inner number
+
+1. first time
+1. second time
+1. third time
+  1 indented
+    1. inner number   
